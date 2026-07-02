@@ -270,7 +270,7 @@ private:
   };
 
   LibXR::Event button_events_; ///< Event system for button notifications
-  LibXR::MPMCQueue<ButtonEventResult>
+  LibXR::Queue<ButtonEventResult>
       result_queue_; ///< Queue for event results
   LibXR::Timer::TimerHandle
       state_timer_; ///< Global timer handle for state timing management

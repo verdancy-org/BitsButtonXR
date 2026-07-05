@@ -1,7 +1,7 @@
 # BitsButtonXR
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![Language](https://img.shields.io/badge/language-C++17-orange.svg)](https://en.cppreference.com/)
+[![Language](https://img.shields.io/badge/language-C++20-orange.svg)](https://en.cppreference.com/)
 [![Framework](https://img.shields.io/badge/Framework-LibXR-green)](https://github.com/Jiu-xiao/libxr)
 [![GitHub stars](https://img.shields.io/github/stars/molqzone/BitsButtonXR?style=social)](https://github.com/molqzone/BitsButtonXR/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/molqzone/BitsButtonXR?style=social)](https://github.com/molqzone/BitsButtonXR/network/members)
